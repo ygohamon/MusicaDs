@@ -1,0 +1,6 @@
+{
+  "name": "MusicaDs",
+  "description": "Bot de Musica do Discord",
+  "repository": "https://github.com/ygohamon10/MusicaDs",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}

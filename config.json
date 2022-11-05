@@ -1,0 +1,14 @@
+{
+  "TOKEN": "",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "SPOTIFY_CLIENT_ID": "",
+  "SPOTIFY_CLIENT_SECRET": "",
+  "MAX_PLAYLIST_SIZE": 15,
+  "PREFIX": ".",
+  "PRUNING": false,
+  "LOCALE": "pt_br",
+  "STAY_TIME": 60,
+  "DEFAULT_VOLUME": 100,
+  "logLevel": "info"
+}
